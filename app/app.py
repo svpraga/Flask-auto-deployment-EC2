@@ -44,7 +44,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>🚀 Flask App Successfully Deployed on AWS ECS!</h1>
+            <h1>🚀 Flask App Successfully Deployed on AWS ECS! WITH GITHUB ACTIONS</h1>
             <p class="success">✓ Deployment Successful</p>
             
             <div class="info">
